@@ -1,0 +1,1 @@
+.\Invoke-ShareInventory.ps1 -RootPath "\\server\share\folder" -MaxFolders 10000 -MaxFiles 10000
